@@ -1,0 +1,17 @@
+[
+    {
+        "WardName": ["Ward A", "Ward B"],
+        "PersonID": "1",
+        "Firstname": "John",
+        "LastName": "Doe",
+        "Fathername": "Michael"
+    },
+    {
+        "WardName": ["Ward F", "Ward G"],
+        "PersonID": "5",
+        "Firstname": "Emily",
+        "LastName": "Wilson",
+        "Fathername": "Daniel"
+    }
+
+]
